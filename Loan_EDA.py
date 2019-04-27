@@ -66,7 +66,6 @@ loan['pub_rec'].unique()
 
 
 #To find length of unique values 
-
 loan['credit_policy'].nunique()
 loan['purpose'].nunique()
 loan['delinq_2yrs'].nunique()
